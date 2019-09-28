@@ -1,0 +1,9 @@
+Agenda
+Getting started with linux
+command line essentials
+shell script basics
+using variables
+Basic operators
+Shell loops
+shell functions
+usecases
